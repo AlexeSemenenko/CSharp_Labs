@@ -1,0 +1,4 @@
+modules:
+  ["Class1", "Class2", "Class3"]
+sequence:
+  [["Hello", "Bye"], ["Сompliment", "Fact"], ["Last"]]
