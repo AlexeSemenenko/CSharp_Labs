@@ -1,0 +1,3 @@
+function test(a, b) {
+    a + b * 2 + 333;
+}
